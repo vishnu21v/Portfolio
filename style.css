@@ -382,7 +382,7 @@ body{
     /*ends responsiveness    1400 px */
     /* responsiveness    400 px */
   
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 800px) {
     .navbar{
       display: none;
     }
@@ -1044,7 +1044,7 @@ body{
   }
   /* responsive skill bar */
   
-  @media screen and (max-width: 400px) {
+  @media screen and (max-width: 800px) {
     .sbar{
       display: flex;
       flex-direction: column;
@@ -1321,7 +1321,7 @@ body{
       height: 100%;
     }
     /* project responsiveness */
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 800px) {
       .pro{
         display:flex;
         flex-direction: column;
