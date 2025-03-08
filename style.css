@@ -1135,6 +1135,9 @@ body{
     text-align: center;
     justify-content: center;
   }
+  .prosec{
+    padding:1%;
+  }
   
   .bar{
     width:90%;
