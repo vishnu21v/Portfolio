@@ -1332,6 +1332,9 @@ body{
       .proholder{
   
       }
+      .prodesc{
+        padding: 1%;
+      }
       .flip-card{
         width:320px;
         height: 320px;
