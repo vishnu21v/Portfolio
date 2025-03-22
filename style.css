@@ -1151,7 +1151,7 @@ body{
     background-color: rgb(174, 101, 23);
     border-radius: 10px;
     font-size: small;
-    animation: load 15s normal forwards;
+    animation: load 35s normal forwards;
   }
   @keyframes load {
     0% {width: 0;}
